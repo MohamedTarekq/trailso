@@ -60,7 +60,7 @@ python3 trailso.py --subs -d example.com
  ```
 ###  Get the neighbors of a given IP address range :
 ```
- python3 trailso.py --explore -i 10.10.10.1* 
+ python3 trailso.py --explore -i 10.10.10.10
  ```
 #### Donation
 If this tool help you reduce time and you love it, you can give me a cup of coffee :) 
