@@ -1,5 +1,7 @@
 # trailso
 [+] An Automation Tool Based on [ securitytrails.com ]
+
+![screenshot](screenshot.png)
 ### Setup:
 ```
 pip3 install -r requirement.txt
